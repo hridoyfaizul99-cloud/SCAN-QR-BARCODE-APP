@@ -1,0 +1,7 @@
+{
+  "name": "CommuteCast - Personalized Audio News Briefing",
+  "description": "Generate tailored, commute-length audio news briefings from your articles with Gemini AI and natural text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
